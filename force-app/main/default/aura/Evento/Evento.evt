@@ -1,0 +1,6 @@
+<aura:event type="APPLICATION" description="Event template">
+
+    <aura:attribute name="guess" type="string"></aura:attribute>
+    <aura:attribute name="palabraCorrecta" type="string"></aura:attribute>
+
+</aura:event>

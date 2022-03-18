@@ -1,0 +1,8 @@
+<aura:component>
+
+    <aura:attribute  name="textvalue" type="String" default=""/> 
+    <lightning:input value="{!v.textvalue }" minlength="5" maxlength="5"/>
+    <lightning:button value="Enviar" label="Enviar"  name="myButton" onclick="{!c.enviar}"/>
+    
+    <br/>
+</aura:component>
