@@ -1,0 +1,38 @@
+.THIS{
+    text-align: center;
+    margin-left: 20%;
+    border: 1px solid;
+    width: 60%;
+    height: 80vh;
+    padding: 10px;
+
+}
+
+.cLista td {
+    border: 1px solid;
+    border-bottom: 1px solid;
+    border-radius: 10px;
+    width: 20%;
+}
+.cLista tr {
+    margin-top: 30%;
+    border: 1px solid;
+}
+
+.cLista h1{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.cLista #Verde{
+    color:rgb(75, 163, 75);
+}
+
+.cLista #Amarillo{
+    color:rgb(225, 236, 69);
+}
+
+.cLista #Rojo{
+    color:rgb(223, 61, 61);
+}

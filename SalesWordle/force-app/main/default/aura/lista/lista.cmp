@@ -1,0 +1,8 @@
+<aura:component>
+    <aura:handler event="c:Evento" action="{!c.mostranding}"/>
+
+    <table aura:id="tablero" id="tablero">
+
+    </table>
+
+</aura:component>	
